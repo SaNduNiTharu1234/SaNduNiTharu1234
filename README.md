@@ -8,6 +8,8 @@
 <table>
 
 - 🌱 I’m currently learning **oop with java**
+  
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 👩‍🎓 I am an undergraduate **at SLIIT.**
 
